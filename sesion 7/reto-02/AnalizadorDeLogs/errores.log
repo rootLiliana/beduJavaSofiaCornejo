@@ -1,0 +1,7 @@
+INFO: Inicio del sistema
+WARNING: Memoria baja
+ERROR: Fallo al conectar a la base de datos
+INFO: Usuario autenticado
+ERROR: Timeout en la solicitud
+WARNING: Uso elevado de CPU
+INFO: Proceso completado
